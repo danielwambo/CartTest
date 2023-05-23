@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-git config --global user.email "wambokenya@gmail.com"
+
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 void main() {
